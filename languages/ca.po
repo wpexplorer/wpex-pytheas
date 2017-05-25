@@ -1,0 +1,1547 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pytheas WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-18 14:10-0800\n"
+"PO-Revision-Date: 2014-09-18 14:10-0800\n"
+"Last-Translator: Raimon <raimon@imatgedart.com>\n"
+"Language-Team: WPExplorer.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_nx\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Not found"
+msgstr "No hem trobat la pàgina"
+
+#: ../404.php:19
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Ho sentim, ha passat alguna cosa estranya."
+
+#: ../404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Sembla que no hi ha res a aquesta adreça web. Podries provar de fer una "
+"cerca."
+
+#: ../archive-portfolio.php:21 ../archive-services.php:24
+#: ../taxonomy-portfolio_category.php:24 ../taxonomy-services_category.php:24
+msgid "Browse"
+msgstr "Navega"
+
+#: ../archive-portfolio.php:23 ../archive-services.php:26
+#: ../taxonomy-portfolio_category.php:26 ../taxonomy-services_category.php:26
+#: ../functions/widgets/widget-portfolio-posts-thumbs.php:97
+#: ../functions/widgets/widget-posts-thumbs.php:85
+msgid "All"
+msgstr "Tot"
+
+#: ../archive.php:23
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Arxius diaris: %s"
+
+#: ../archive.php:25
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Arxius mensuals: %s"
+
+#: ../archive.php:27
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Arxius anuals: %s"
+
+#: ../author-bio.php:12
+#, php-format
+msgid "About %s"
+msgstr "Sobre %s"
+
+#: ../author-bio.php:21
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Veure totes les entrades de %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../author.php:16
+#, php-format
+msgid "All posts by %s"
+msgstr "Totes les entrades de %s"
+
+#: ../comments.php:30 ../content.php:45 ../single-portfolio.php:33
+#: ../single.php:29
+msgid "1 Comment"
+msgstr "1 comentari"
+
+#: ../comments.php:32
+#, fuzzy, php-format
+msgid "%s Comments"
+msgstr "% comentaris"
+
+#: ../comments.php:48
+msgid "Comment navigation"
+msgstr "Navega pels comentaris"
+
+#: ../comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentaris més antics"
+
+#: ../comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "Comentaris més nous &rarr;"
+
+#: ../comments.php:55
+msgid "Comments are closed."
+msgstr "Els comentaris estan tancats"
+
+#: ../comments.php:60
+msgid "Leave a Reply"
+msgstr "Respon"
+
+#: ../content-none.php:12
+msgid "Nothing Found"
+msgstr "No hem trobat res."
+
+#: ../content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"A punt per a publicar la primera entradada? <a href=\"%1$s\">Comença aquí.</"
+"a>."
+
+#: ../content-none.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+"Ho sentim, no hi ha cap coincidència amb les claus de cerca que has posat. "
+"Torna-ho a provar amb unes altres."
+
+#: ../content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Sembla que no podem trobar allò que busques. Potser et pot ajudar fer una "
+"cerca."
+
+#: ../content-portfolio-related.php:36
+msgid "Related Projects"
+msgstr "Projectes relacionats"
+
+#: ../content-related-posts.php:32
+msgid "Related Articles"
+msgstr "Articles relacionats"
+
+#: ../content-search.php:23 ../content.php:54
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Segueix llegint <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../content.php:45 ../single-portfolio.php:33 ../single.php:29
+msgid "Leave a comment"
+msgstr "Fes un comentari"
+
+#: ../content.php:45 ../single-portfolio.php:33 ../single.php:29
+msgid "% Comments"
+msgstr "% comentaris"
+
+#: ../content.php:45 ../single-portfolio.php:33 ../single.php:29
+msgid "Comments closed"
+msgstr "Comentaris tancats"
+
+#: ../header.php:53 ../searchform.php:12
+msgid "Search"
+msgstr "Cerca"
+
+#: ../header.php:72
+msgid "Menu"
+msgstr "Menú"
+
+#: ../index.php:20
+msgid "The Blog"
+msgstr "El blog"
+
+#: ../options.php:16
+msgid "Default"
+msgstr "Per defecte"
+
+#: ../options.php:17
+msgid "Light Rounded"
+msgstr "Clar arrodonit"
+
+#: ../options.php:18
+msgid "Dark Rounded"
+msgstr "Fosc arrodonit"
+
+#: ../options.php:19
+msgid "Light Square"
+msgstr "Clar quadrat"
+
+#: ../options.php:20
+msgid "Dark Square"
+msgstr "Fosc quadrat"
+
+#: ../options.php:21
+msgid "Facebook"
+msgstr ""
+
+#: ../options.php:29
+msgid "General"
+msgstr "General"
+
+#: ../options.php:33
+msgid "Custom Logo"
+msgstr "Logotip personalitzat"
+
+#: ../options.php:34
+msgid "Upload your custom logo."
+msgstr "Carrega un logotip personalitzat."
+
+#: ../options.php:39
+msgid "Exclude Header Image From Homepage?"
+msgstr "Voleu excloure la imatge de capçalera de la pàgina inicial?"
+
+#: ../options.php:40
+msgid "Check box to exclude the header image from the homepage."
+msgstr ""
+"Marca la casella per a excloure la imatge de capçalera de la pàgina inicial."
+
+#: ../options.php:46
+msgid "Disable the background image?"
+msgstr "Voleu desactivar la imatge de fons?"
+
+#: ../options.php:47
+msgid "Check box to disable the main background image."
+msgstr "Marca la casella per a desactiva la imatge principal de fons."
+
+#: ../options.php:53
+msgid "Retina Support?"
+msgstr "Suport per a Retina?"
+
+#: ../options.php:54
+msgid "Check box to enable retina support for featured images."
+msgstr ""
+"Marca la casella per a activar el suport per a Retina a les imatges "
+"destacades."
+
+#: ../options.php:60
+msgid "Widgetized Footer?"
+msgstr "Peu de pàgina a través de Ginys?"
+
+#: ../options.php:61
+msgid "Check box to enable the widgetized footer area."
+msgstr "Marca la casella per a activa el peu de pàgina a través de Ginys."
+
+#: ../options.php:67
+msgid "PrettyPhoto Theme"
+msgstr "Tema de PrettyPhoto"
+
+#: ../options.php:68
+msgid "Choose your PrettyPhoto theme."
+msgstr "Escull el tema de PrettyPhoto."
+
+#: ../options.php:75
+msgid "Header Right Content"
+msgstr "Contingut a la dreta de la capçalera"
+
+#: ../options.php:76
+msgid ""
+"Enter your custom content for the header top right section above the "
+"searchbox."
+msgstr ""
+"Escriu el contingut personalitzat per la secció a la dreta de la capçalera "
+"sobre el camp de cerca."
+
+#: ../options.php:82
+msgid "Custom Copyright"
+msgstr "Copyright personalitzat"
+
+#: ../options.php:83
+msgid "Enter your custom copyright infor for the footer."
+msgstr ""
+"Escriu el contingut personalitzat sobre el copyright que anirà al peu de "
+"pàgina."
+
+#: ../options.php:85
+msgid "Theme by"
+msgstr "Tema elaborat per"
+
+#: ../options.php:91 ../functions/post-types/slides.php:28
+msgid "Slides"
+msgstr "Diapositives"
+
+#: ../options.php:97
+msgid "Toggle: Slideshow"
+msgstr "Commuta: passi de diapositives"
+
+#: ../options.php:98
+msgid "Check this box to enable automatic slideshow for your slides."
+msgstr "Marca la casella per a activar el passi automàtic de diapositives."
+
+#: ../options.php:108
+msgid "Toggle: Randomize"
+msgstr "Commuta: aleatoritza"
+
+#: ../options.php:109
+msgid "Check this box to enable the randomize feature for your slides."
+msgstr ""
+"Marca la casella per a activar l'aleatorització per a les diapositives."
+
+#: ../options.php:119
+msgid "Animation"
+msgstr "Animació"
+
+#: ../options.php:120
+msgid "Select your animation of choice."
+msgstr "Selecciona l'animació que vols."
+
+#: ../options.php:130
+msgid "Direction"
+msgstr "Direcció"
+
+#: ../options.php:131
+msgid ""
+"Select the direction for your slides. Slide animation only & if using the "
+"<strong>vertical direction</strong> all slides must have the same height."
+msgstr ""
+"Selecciona la direcció per a les diapositives. Totes les diapositives han de "
+"tenir la mateixa alçada perquè hi hagi animació, també quan s'anima en "
+"<strong>sentit vertical</strong>."
+
+#: ../options.php:141
+msgid "SlideShow Speed"
+msgstr "Velocitat del passi"
+
+#: ../options.php:142
+msgid "Enter your preferred slideshow speed in milliseconds."
+msgstr ""
+"Escriu, en mil·lisegons, la velocitat que desitgis per al passi de "
+"diapositives."
+
+#: ../options.php:148
+msgid "Animation Speed"
+msgstr "Velocitat de l'animació"
+
+#: ../options.php:149
+msgid "Enter your preferred animation speed in milliseconds."
+msgstr "Escriu, en mil·lísegons, la velocitat que desitigis per a l'animació"
+
+#: ../options.php:156
+msgid "Slider Alternative"
+msgstr "Alternativa per al motor de diapositives"
+
+#: ../options.php:157
+msgid ""
+"If you prefer to use another slider you can enter the <strong>shortcode</"
+"strong> here."
+msgstr ""
+"Si voleu utilitzar un altre motor de diapositives escriviu-ne el "
+"<strong>shortcode</strong> aquí."
+
+#: ../options.php:165
+msgid "Homepage"
+msgstr "Pàgina inicial"
+
+#: ../options.php:169
+msgid "Homepage Tagline"
+msgstr "Tagline de la pàgina inicial"
+
+#: ../options.php:172
+msgid "Homepage Tagline Sample"
+msgstr "Exemple del tagline de la pàgina inicial"
+
+#: ../options.php:176
+msgid "Homepage Services Title"
+msgstr "Títol de la pàgina inicial de Serveis"
+
+#: ../options.php:177
+msgid "Enter your homepage services title."
+msgstr "Escriu el títol de la pàgina inicial de Serveis"
+
+#: ../options.php:179
+msgid "What We Do"
+msgstr "Què fem"
+
+#: ../options.php:184
+msgid "How Many Services Posts"
+msgstr "Quantitat d'entrades de Serveis:"
+
+#: ../options.php:185
+msgid "Enter an integer for how many service posts to show on the homepage."
+msgstr ""
+"Escriu un enter per a quantes entrades de Serveis cal mostrar a la pàgina "
+"inicial."
+
+#: ../options.php:191
+msgid "Show Recent Work?"
+msgstr "Cal mostrar Treballs recents?"
+
+#: ../options.php:192
+msgid "Check box to show recent work on the homepage."
+msgstr ""
+"Marca la casella per a mostrar els Treballs recents a la pàgina inicial."
+
+#: ../options.php:198
+msgid "Recent Work Title"
+msgstr "Títol dels Treballs recents"
+
+#: ../options.php:199
+msgid "Enter your custom title for the recent work section"
+msgstr "Escriu el títol personalitzat per a la secció de Treballs recents"
+
+#: ../options.php:201
+msgid "Recent Work"
+msgstr "Treballs recents"
+
+#: ../options.php:205
+msgid "Home Many Portfolio Posts?"
+msgstr "Quantitat d'entrades de Portafolis:"
+
+#: ../options.php:206
+msgid "Enter an integer for how many portfolio posts to show on the homepage."
+msgstr ""
+"Escriu un enter per a quantes entrades de Portafolis cal mostrar a la pàgina "
+"inicial."
+
+#: ../options.php:208 ../options.php:230
+msgid "4"
+msgstr "4"
+
+#: ../options.php:212
+msgid "Show Recent Blog Posts?"
+msgstr "Mostrar les Entrades recents del Blog?"
+
+#: ../options.php:213
+msgid "Check box to show recent blog posts on the homepage."
+msgstr ""
+"Marca la casella per a mostrar les Entrades recents del Blog a la pàgina "
+"inicial."
+
+#: ../options.php:219
+msgid "Recent Blog Posts Title"
+msgstr "Títol de les Entrades recents del Blog"
+
+#: ../options.php:220
+msgid "Enter your custom title for the recent blog posts section"
+msgstr ""
+"Escriu el títol personalitzat per a la secció de les Entrades recents del "
+"Blog"
+
+#: ../options.php:222
+msgid "Recent News"
+msgstr "Últimes novetats"
+
+#: ../options.php:227
+msgid "Home Many Blog Posts?"
+msgstr "Quantes Entrades del Blog?"
+
+#: ../options.php:228
+msgid "Enter an integer for how many blog posts to show on the homepage."
+msgstr ""
+"Escriu un enter per a quantes Entrades del Blog cal mostrar a la pàgina "
+"inicial."
+
+#: ../options.php:236 ../templates/template-home.php:141
+msgid "Blog"
+msgstr "Blog"
+
+#: ../options.php:240
+msgid "Featured Images On Single Posts?"
+msgstr "Imatges destacades a algunes entrades en particular?"
+
+#: ../options.php:241 ../options.php:255 ../options.php:262 ../options.php:269
+msgid "Check box to enable featured images on single blog posts."
+msgstr ""
+"Marca la casella per a activar les imatges destacades per a les entrades del "
+"blog."
+
+#: ../options.php:247
+msgid "Entry Excerpts?"
+msgstr "Resums de les entrades?"
+
+#: ../options.php:248
+msgid "Check box to show excerpts rather then full posts on standard entries."
+msgstr ""
+"Marca la casella per a mostrar resums abans que el contingut sencer a les "
+"entrades normals."
+
+#: ../options.php:254
+msgid "Author Bio?"
+msgstr "Biografia de l'autor?"
+
+#: ../options.php:261
+msgid "Tags?"
+msgstr "Etiquetes?"
+
+#: ../options.php:268
+msgid "Related Posts?"
+msgstr "Entrades relacionades?"
+
+#: ../options.php:279
+msgid "Social"
+msgstr "Xarxes socials"
+
+#: ../options.php:284
+msgid "Social?"
+msgstr "Xarxes socials?"
+
+#: ../options.php:285
+msgid "Check box to enable the social section in the main menu."
+msgstr ""
+"Marca la casella per a activar la secció de xarxes socials al menú principal."
+
+#: ../options.php:294
+msgid "Enter your "
+msgstr "Entra el teu"
+
+#: ../options.php:294
+msgid " url"
+msgstr "URL"
+
+#: ../options.php:294
+msgid "Include http:// at the front of the url."
+msgstr "Recorda posar http:// davant la URL"
+
+#: ../page.php:29 ../single-portfolio.php:47 ../single-services.php:39
+#: ../templates/template-fullwidth.php:29
+msgid "Edit Page"
+msgstr "Edita la pàgina"
+
+#: ../search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultats de cerca per a:: %s"
+
+#: ../tag.php:18
+#, php-format
+msgid "Posts Tagged: %s"
+msgstr "Entrades etiquetades: %s"
+
+#: ../admin/includes/class-options-framework-admin.php:85
+#: ../admin/includes/class-options-framework-admin.php:86
+#: ../admin/includes/class-options-framework-admin.php:307
+msgid "Theme Options"
+msgstr "Opcions del tema"
+
+#: ../admin/includes/class-options-framework-admin.php:174
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+"Prem OK/D'acord per a restaurar. Totes les opcions del tema es perdran!"
+
+#: ../admin/includes/class-options-framework-admin.php:205
+msgid "Default options restored."
+msgstr "S'han restaurat les opcions per defecte."
+
+#: ../admin/includes/class-options-framework-admin.php:259
+msgid "Options saved."
+msgstr "S'han desat les opcions."
+
+#: ../admin/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr "No s'ha triat cap fitxer"
+
+#: ../admin/includes/class-options-media-uploader.php:66
+#: ../admin/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr "Carrega"
+
+#: ../admin/includes/class-options-media-uploader.php:68
+#: ../admin/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr "Elimina"
+
+#: ../admin/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+"Actualitzeu la vostra instal·lació del Wordpress per a la compatibilitat "
+"plena amb mèdia."
+
+#: ../admin/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr "Veure l'arxiu"
+
+#: ../admin/includes/class-options-sanitization.php:241
+msgid "No Repeat"
+msgstr "No repetir"
+
+#: ../admin/includes/class-options-sanitization.php:242
+msgid "Repeat Horizontally"
+msgstr "Repetir horitzontalment"
+
+#: ../admin/includes/class-options-sanitization.php:243
+msgid "Repeat Vertically"
+msgstr "Repetir verticalment"
+
+#: ../admin/includes/class-options-sanitization.php:244
+msgid "Repeat All"
+msgstr "Repetir en totes direccions"
+
+#: ../admin/includes/class-options-sanitization.php:257
+msgid "Top Left"
+msgstr "A dalt a l'esquerra"
+
+#: ../admin/includes/class-options-sanitization.php:258
+msgid "Top Center"
+msgstr "A dalt al centre"
+
+#: ../admin/includes/class-options-sanitization.php:259
+msgid "Top Right"
+msgstr "A dalt a la dreta"
+
+#: ../admin/includes/class-options-sanitization.php:260
+msgid "Middle Left"
+msgstr "Al mig a l'esquerra"
+
+#: ../admin/includes/class-options-sanitization.php:261
+msgid "Middle Center"
+msgstr "Al mig i al centre"
+
+#: ../admin/includes/class-options-sanitization.php:262
+msgid "Middle Right"
+msgstr "Al mig a la dreta"
+
+#: ../admin/includes/class-options-sanitization.php:263
+msgid "Bottom Left"
+msgstr "A sota a l'esquerra"
+
+#: ../admin/includes/class-options-sanitization.php:264
+msgid "Bottom Center"
+msgstr "A sota i al centre"
+
+#: ../admin/includes/class-options-sanitization.php:265
+msgid "Bottom Right"
+msgstr "A sota a la dreta"
+
+#: ../admin/includes/class-options-sanitization.php:278
+msgid "Scroll Normally"
+msgstr "Desplaça normalment"
+
+#: ../admin/includes/class-options-sanitization.php:279
+msgid "Fixed in Place"
+msgstr "Fixat a un punt"
+
+#: ../admin/includes/class-options-sanitization.php:353
+msgid "Normal"
+msgstr "Normal"
+
+#: ../admin/includes/class-options-sanitization.php:354
+msgid "Italic"
+msgstr "Cursiva"
+
+#: ../admin/includes/class-options-sanitization.php:355
+msgid "Bold"
+msgstr "Negreta"
+
+#: ../admin/includes/class-options-sanitization.php:356
+msgid "Bold Italic"
+msgstr "Negreta cursiva"
+
+#: ../functions/class-tgm-plugin-activation.php:164
+#: ../functions/recommend-plugins.php:76
+msgid "Install Required Plugins"
+msgstr "Instal·leu les extensions necessàries"
+
+#: ../functions/class-tgm-plugin-activation.php:165
+#: ../functions/recommend-plugins.php:77
+msgid "Install Plugins"
+msgstr "Instal·leu extensions"
+
+#: ../functions/class-tgm-plugin-activation.php:166
+#: ../functions/recommend-plugins.php:78
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instal·lant l'extensió: %s"
+
+#: ../functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Alguna cosa no ha anat bé."
+
+#: ../functions/class-tgm-plugin-activation.php:178
+#: ../functions/class-tgm-plugin-activation.php:490
+#: ../functions/recommend-plugins.php:90
+msgid "Return to Required Plugins Installer"
+msgstr "Torna a l'instal·lador de les extensions necessàries"
+
+#: ../functions/class-tgm-plugin-activation.php:179
+#: ../functions/class-tgm-plugin-activation.php:1846
+#: ../functions/recommend-plugins.php:91
+msgid "Plugin activated successfully."
+msgstr "L'extensió s'ha activat satisfactòriament."
+
+#: ../functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+"Totes les extensions s'han instal·lat i activat satisfactòriament. %1$s"
+
+#: ../functions/class-tgm-plugin-activation.php:517
+#: ../functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "Tornar al Tauler"
+
+#: ../functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "S'ha activat satisfactòriament l'extensió %s."
+
+#: ../functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "Ignora aquesta notificació"
+
+#: ../functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "Enllaç extern"
+
+#: ../functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "Repositori privat"
+
+#: ../functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "Preempaquetat"
+
+#: ../functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "Repositori del WordPress"
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "Requerit"
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+#: ../functions/welcome.php:94
+msgid "Recommended"
+msgstr "Recomanat"
+
+#: ../functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "No instal·lat"
+
+#: ../functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "Instal·lat però no activat"
+
+#: ../functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"No hi ha extensions per a instal·lar o activar. <a href=\"%1$s\" title="
+"\"Torna al Tauler\">Torna al Tauler</a>"
+
+#: ../functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "Extensió"
+
+#: ../functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "Font"
+
+#: ../functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "Tipus"
+
+#: ../functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "Estat"
+
+#: ../functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "Instal·la"
+
+#: ../functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "Activa"
+
+#: ../functions/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgstr "L'extensió següent s'ha activat satisfactòriament:"
+
+#: ../functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "El paquet instal·lador no és disponible."
+
+#: ../functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Descarregant el paquet instal·lador des de <span class=\"code\">%s</"
+"span>&#8230;"
+
+#: ../functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "Obrint el paquet&#8230;"
+
+#: ../functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "Instal·lant l'extensió&#8230;"
+
+#: ../functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "Ha fallat la instal·lació de l'extensió"
+
+#: ../functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "Extensió instal·lada satisfactòriament."
+
+#: ../functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "L'activació de l'extensió ha fallat."
+
+#: ../functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El procés d'instal·lació i activació acaba de començar. Pot durar una "
+"estona, en funció del servidor: tingueu paciència, si us plau."
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instal·lat i activat satisfactòriament."
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "Mostra detalls"
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "Amaga detalls"
+
+#: ../functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "Totes les instal·lacions i activacions s'han completat."
+
+#: ../functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instal·lant i activant l'extensió %1$s (%2$d/%3$d)"
+
+#: ../functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El procés d'instal·lació acaba de començar. Pot durar una estona, en funció "
+"del servidor: tingueu paciència, si us plau."
+
+#: ../functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Hi ha hagut un error mentre s'instal·lava %1$s: <strong>%2$s</strong>."
+
+#: ../functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "La instal·lació de %1$s ha fallat."
+
+#: ../functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s s'ha instal·lat satisfactòriament."
+
+#: ../functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "Totes les instal·lacions s'han completat."
+
+#: ../functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instal·lant l'extensió %1$s (%2$d/%3$d)"
+
+#: ../functions/comments-callback.php:28
+msgid "Pingback:"
+msgstr "Retroping:"
+
+#: ../functions/comments-callback.php:28 ../functions/comments-callback.php:53
+msgid "Edit"
+msgstr "Edita"
+
+#: ../functions/comments-callback.php:59
+msgid "Your comment is awaiting moderation."
+msgstr "El vostre comentari és a la cua de moderació."
+
+#: ../functions/comments-callback.php:67
+msgid "reply to comment"
+msgstr "respon al comentari"
+
+#: ../functions/dash-thumbs.php:18 ../functions/post-types/slides.php:64
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: ../functions/pagination.php:67
+msgid "Newer Posts"
+msgstr "Entrades més recents"
+
+#: ../functions/pagination.php:69
+msgid "Older Posts"
+msgstr "Entrades més antigues"
+
+#: ../functions/recommend-plugins.php:79
+msgid "Something went wrong with the plugin API."
+msgstr "Quelcom no ha anat bé amb l'API de l'extensió."
+
+#: ../functions/recommend-plugins.php:92
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Totes les extensións s'han instal·lat i activat satisfactòriament. %s"
+
+#: ../functions/theme-setup.php:22
+msgid "Main"
+msgstr "Principal"
+
+#: ../functions/theme-setup.php:23
+msgid "Footer"
+msgstr "Peu de pàgina"
+
+#: ../functions/welcome.php:51 ../functions/welcome.php:52
+msgid "Theme Details"
+msgstr "Detalls del tema"
+
+#: ../functions/welcome.php:60
+msgid "Recommendations | Elegant Theme"
+msgstr "Recomanacions | Elegant Theme"
+
+#: ../functions/welcome.php:61 ../functions/welcome.php:170
+msgid "Recommendations"
+msgstr "Recomanacions"
+
+#: ../functions/welcome.php:91
+msgid "About"
+msgstr "Quant a"
+
+#: ../functions/welcome.php:118
+msgid "Theme"
+msgstr "Tema"
+
+#: ../functions/welcome.php:120
+msgid "Thank you for choosing this WordPress theme for your website."
+msgstr "Gràcies per escollir aquest tema de WordPress per al vostre lloc web."
+
+#: ../functions/welcome.php:131
+msgid "GPL License"
+msgstr "Llicència GPL"
+
+#: ../functions/welcome.php:132
+msgid ""
+"This theme is licensed under the GPL license. This means you can use it for "
+"anything you like as long as it remains GPL."
+msgstr ""
+"Aquest tema es pot utilitzar sota els termes de la llicència GPL. Això vol "
+"dir que el podeu utilitzar per al que vulgueu sempre i quan el mantingueu "
+"com a GPL."
+
+#: ../functions/welcome.php:136
+msgid "Credits"
+msgstr "Crèdits"
+
+#: ../functions/welcome.php:138
+msgid ""
+"This theme was created by <a href=\"http://www.wpexplorer.com\" target="
+"\"_blank\">WPExplorer.com</a>."
+msgstr ""
+"Aquest tema ha estat creat per <a href=\"http://www.wpexplorer.com\" target="
+"\"_blank\">WPExplorer.com</a>."
+
+#: ../functions/welcome.php:140
+msgid "We work hard to develop, host, release and update this theme."
+msgstr ""
+"Treballem per a desenvolupar, hostatjar, publicar i actualitzar aquest tema."
+
+#: ../functions/welcome.php:142
+msgid "A back-link to our website and or a donation is very much appreciated!"
+msgstr "Us agrairíem molt un enllaç cap al nostre lloc web o un donatiu!"
+
+#: ../functions/welcome.php:147
+msgid "Liability"
+msgstr "Responsabilitats i implicacions"
+
+#: ../functions/welcome.php:149
+msgid ""
+"WPExplorer.com shall not be held liable for any damages, including, but not "
+"limited to, the loss of data or profit, arising from the use of, or "
+"inability to use, this theme."
+msgstr ""
+"WPExplorer.com no es responsabilitza de cap dany o perjudici que es derivi "
+"de l'ús (o de la no possibilitat d'ús) d'aquest tema, incloent (però no "
+"limitat a) la pèrdua de dades o beneficis."
+
+#: ../functions/welcome.php:172
+msgid "Below are some of the resources we love and recommend."
+msgstr ""
+"A sota podeu veure alguns dels recursos que ens agraden i que recomanem."
+
+#: ../functions/welcome.php:182
+msgid "Plugins"
+msgstr "Extensions"
+
+#: ../functions/welcome.php:183
+msgid ""
+"Below you will find links to plugins we (WPExplorer.com staff) personally "
+"like and recommend. None of these plugins are required for your theme to "
+"work, they simply add additional functionality."
+msgstr ""
+"A sota podeu trobar enllaços a les extensions que a nosaltres (l'equip de "
+"WPExplorer.com) ens agraden i recomanem personalment. Cap d'elles és "
+"necessària perquè aquest tema funcioni, simplement hi donen noves "
+"funcionalitats."
+
+#: ../functions/welcome.php:198
+msgid "Total Theme"
+msgstr "Total Theme"
+
+#: ../functions/welcome.php:199
+msgid ""
+"Check out our most advanced (yet easy to use) and flexible theme to date."
+msgstr ""
+"Sapigueu més del més avançat (i a la vegada fàcil d'utilitzar) i flexible "
+"tema que hem fet fins avui."
+
+#: ../functions/welcome.php:204
+msgid "WordPress Hosting"
+msgstr "Allotjament de WordPress"
+
+#: ../functions/welcome.php:205
+msgid ""
+"If you need fast and <a href=\"http://www.wpexplorer.com/wordpress-hosting/"
+"\" target=\"_blank\">reliable hosting</a> we recommend the same host we use "
+"and love WPEngine."
+msgstr ""
+"Si necessiteu un <a href=\"http://www.wpexplorer.com/wordpress-hosting/\" "
+"target=\"_blank\">allotjament ràpid i confiable</a> us recomanem WPEngine "
+"que és el que ens agrada i utilitzem nosaltres."
+
+#: ../functions/welcome.php:210
+msgid "Deals & Coupons"
+msgstr "Ofertes i cupons"
+
+#: ../functions/welcome.php:211
+msgid "Check out our coupons page for great deals on WordPress resources."
+msgstr ""
+"Mira els nostres cupons per a veure grans ofertes en recursos per a WordPress"
+
+#: ../functions/meta/meta-services.php:16 ../functions/meta/meta-slides.php:16
+msgid "Post Options"
+msgstr "Opcions de l'entrada"
+
+#: ../functions/meta/meta-services.php:22
+msgid "Icon"
+msgstr "Icona"
+
+#: ../functions/meta/meta-services.php:27
+msgid ""
+"Select your highlight icon option.<br/ > See <a href=\"http://fortawesome."
+"github.com/Font-Awesome/\">Font Awesome</a> for previews."
+msgstr ""
+"Seleccioneu la icona de destacament.<br/ > Vegeu <a href=\"http://"
+"fortawesome.github.com/Font-Awesome/\">Font Awesome</a> per a previsualitzar-"
+"les totes."
+
+#: ../functions/meta/meta-slides.php:22
+msgid "Video URL"
+msgstr "URL del vídeo"
+
+#: ../functions/meta/meta-slides.php:23
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+"Escriu una URL de vídeo que sigui compatible amb l'opció oEmbed interna de "
+"WordPress."
+
+#: ../functions/meta/meta-slides.php:23
+msgid "Learn More"
+msgstr "Per a saber-ne més"
+
+#: ../functions/meta/meta-slides.php:29
+msgid "Link URL"
+msgstr "URL de l'enllaç"
+
+#: ../functions/meta/meta-slides.php:30
+msgid "Enter a URL to link this slide to. Example: http://authenticthemes.com"
+msgstr ""
+"Escriu una URL a la qual enllaçar aquesta diapositiva. Per exemple: http://"
+"authenticthemes.com"
+
+#: ../functions/meta/meta-slides.php:36
+msgid "Link Target"
+msgstr "Destí de l'enllaç"
+
+#: ../functions/meta/meta-slides.php:37
+msgid "Select a target for the URL."
+msgstr "Selecciona un destí per a l'URL."
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:24
+#: ../functions/meta/gallery-metabox/gmb-admin.php:25
+msgid "Image Gallery"
+msgstr "Galeria d'imatges"
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:80
+#: ../functions/meta/gallery-metabox/gmb-admin.php:144
+msgid "Remove image"
+msgstr "Elimina la imatge"
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:91
+msgid "Add/Edit Images"
+msgstr "Afegeix/Edita imatges"
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:101
+msgid "Enable Lightbox for this gallery?"
+msgstr "Voleu activar el Lightbox per a aquesta galeria?"
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:125
+msgid "Add Images to Gallery"
+msgstr "Afegeix imatges a la galeria"
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:127
+msgid "Add to gallery"
+msgstr "Afegeix a la galeria"
+
+#: ../functions/post-types/portfolio.php:36 ../templates/template-home.php:96
+msgid "Portfolio"
+msgstr "Portafolis"
+
+#: ../functions/post-types/portfolio.php:37
+#: ../functions/post-types/portfolio.php:238
+msgid "Portfolio Item"
+msgstr "Ítem del Portafolis"
+
+#: ../functions/post-types/portfolio.php:38
+#: ../functions/post-types/services.php:38
+#: ../functions/post-types/slides.php:30
+msgid "Add New Item"
+msgstr "Afegeix un nou ítem"
+
+#: ../functions/post-types/portfolio.php:39
+#: ../functions/post-types/portfolio.php:41
+msgid "Add New Portfolio Item"
+msgstr "Afegeix un nou ítem de Portafolis"
+
+#: ../functions/post-types/portfolio.php:40
+msgid "Edit Portfolio Item"
+msgstr "Edita l'ítem del Portafolis"
+
+#: ../functions/post-types/portfolio.php:42
+#: ../functions/post-types/services.php:42
+#: ../functions/post-types/slides.php:34
+msgid "View Item"
+msgstr "Veure l'ítem"
+
+#: ../functions/post-types/portfolio.php:43
+msgid "Search Portfolio"
+msgstr "Cerca Portafolis"
+
+#: ../functions/post-types/portfolio.php:44
+msgid "No portfolio items found"
+msgstr "No s'han trobat ítems de Portafolis"
+
+#: ../functions/post-types/portfolio.php:45
+msgid "No portfolio items found in trash"
+msgstr "No s'han trobat ítems de Portafolis a la Paperera"
+
+#: ../functions/post-types/portfolio.php:68
+#: ../functions/post-types/portfolio.php:82
+msgid "Portfolio Tags"
+msgstr "Etiquetes de Portafolis"
+
+#: ../functions/post-types/portfolio.php:69
+msgid "Portfolio Tag"
+msgstr "Etiqueta de Portafolis"
+
+#: ../functions/post-types/portfolio.php:70
+msgid "Search Portfolio Tags"
+msgstr "Cerca etiquetes de Portafolis"
+
+#: ../functions/post-types/portfolio.php:71
+msgid "Popular Portfolio Tags"
+msgstr "Etiquetes populars de Portafolis"
+
+#: ../functions/post-types/portfolio.php:72
+msgid "All Portfolio Tags"
+msgstr "Totes les etiquetes de Portafolis"
+
+#: ../functions/post-types/portfolio.php:73
+msgid "Parent Portfolio Tag"
+msgstr "Etiqueta de Portafolis pare"
+
+#: ../functions/post-types/portfolio.php:74
+msgid "Parent Portfolio Tag:"
+msgstr "Etiqueta de Portafolis pare:"
+
+#: ../functions/post-types/portfolio.php:75
+msgid "Edit Portfolio Tag"
+msgstr "Edita etiqueta de Portafolis"
+
+#: ../functions/post-types/portfolio.php:76
+msgid "Update Portfolio Tag"
+msgstr "Actualitza etiqueta de Portafolis"
+
+#: ../functions/post-types/portfolio.php:77
+msgid "Add New Portfolio Tag"
+msgstr "Afegeix etiqueta de Portafolis"
+
+#: ../functions/post-types/portfolio.php:78
+msgid "New Portfolio Tag Name"
+msgstr "Nom de la nova etiqueta de Portafolis"
+
+#: ../functions/post-types/portfolio.php:79
+msgid "Separate portfolio tags with commas"
+msgstr "Separeu les etiquetes de Portafolis amb comes"
+
+#: ../functions/post-types/portfolio.php:80
+msgid "Add or remove portfolio tags"
+msgstr "Afegiu o elimineu etiquetes de Portafolis"
+
+#: ../functions/post-types/portfolio.php:81
+msgid "Choose from the most used portfolio tags"
+msgstr "Escolliu entre les etiquetes de portafolis més utilitzades"
+
+#: ../functions/post-types/portfolio.php:106
+#: ../functions/post-types/portfolio.php:120
+msgid "Portfolio Categories"
+msgstr "Categories de Portafolis"
+
+#: ../functions/post-types/portfolio.php:107
+msgid "Portfolio Category"
+msgstr "Categoria de Portafolis"
+
+#: ../functions/post-types/portfolio.php:108
+msgid "Search Portfolio Categories"
+msgstr "Cerca categories de Portafolis"
+
+#: ../functions/post-types/portfolio.php:109
+msgid "Popular Portfolio Categories"
+msgstr "Categories populars de Portafolis"
+
+#: ../functions/post-types/portfolio.php:110
+msgid "All Portfolio Categories"
+msgstr "Totes les categories de Portafolis"
+
+#: ../functions/post-types/portfolio.php:111
+msgid "Parent Portfolio Category"
+msgstr "Categoria de Portafolis pare"
+
+#: ../functions/post-types/portfolio.php:112
+msgid "Parent Portfolio Category:"
+msgstr "Categoria de Portafolis pare:"
+
+#: ../functions/post-types/portfolio.php:113
+msgid "Edit Portfolio Category"
+msgstr "Edita categoria de Portafolis"
+
+#: ../functions/post-types/portfolio.php:114
+msgid "Update Portfolio Category"
+msgstr "Actualitza categoria de Portafolis"
+
+#: ../functions/post-types/portfolio.php:115
+msgid "Add New Portfolio Category"
+msgstr "Afegeix nova categoria de Portafolis"
+
+#: ../functions/post-types/portfolio.php:116
+msgid "New Portfolio Category Name"
+msgstr "Nom de la nova categoria de Portafolis"
+
+#: ../functions/post-types/portfolio.php:117
+msgid "Separate portfolio categories with commas"
+msgstr "Separeu les categories de Portafolis amb comes"
+
+#: ../functions/post-types/portfolio.php:118
+msgid "Add or remove portfolio categories"
+msgstr "Afegiu o elimineu categories de Portafolis"
+
+#: ../functions/post-types/portfolio.php:119
+msgid "Choose from the most used portfolio categories"
+msgstr "Escolliu entre les categories de Portafolis més utilitzades"
+
+#: ../functions/post-types/portfolio.php:146
+#: ../functions/post-types/services.php:146
+msgid "Category"
+msgstr "Categoria"
+
+#: ../functions/post-types/portfolio.php:147
+#: ../functions/post-types/services.php:147
+msgid "Tags"
+msgstr "Etiquetes"
+
+#: ../functions/post-types/portfolio.php:170
+#: ../functions/post-types/portfolio.php:180
+#: ../functions/post-types/portfolio.php:190
+#: ../functions/post-types/services.php:162
+#: ../functions/post-types/services.php:172
+#: ../functions/post-types/slides.php:88
+msgid "None"
+msgstr "Res"
+
+#: ../functions/post-types/portfolio.php:249
+msgid "Portfolio Item Pending"
+msgstr "Ítem de Portafolis pendent"
+
+#: ../functions/post-types/services.php:36 ../templates/template-home.php:52
+msgid "Services"
+msgstr "Serveis"
+
+#: ../functions/post-types/services.php:37
+#: ../functions/post-types/services.php:220
+msgid "Services Item"
+msgstr "Ítem de Serveis"
+
+#: ../functions/post-types/services.php:39
+#: ../functions/post-types/services.php:41
+msgid "Add New Services Item"
+msgstr "Afegeix nou ítem de Serveis"
+
+#: ../functions/post-types/services.php:40
+msgid "Edit Services Item"
+msgstr "Edita ítem de Serveis"
+
+#: ../functions/post-types/services.php:43
+msgid "Search Services"
+msgstr "Cerca Serveis"
+
+#: ../functions/post-types/services.php:44
+msgid "No services items found"
+msgstr "No s'han trobat ítems de Serveis"
+
+#: ../functions/post-types/services.php:45
+msgid "No services items found in trash"
+msgstr "No s'han trobat ítems de Serveis a la Paperera"
+
+#: ../functions/post-types/services.php:68
+#: ../functions/post-types/services.php:82
+msgid "Services Tags"
+msgstr "Etiquetes de Serveis"
+
+#: ../functions/post-types/services.php:69
+msgid "Services Tag"
+msgstr "Etiqueta de Serveis"
+
+#: ../functions/post-types/services.php:70
+msgid "Search Services Tags"
+msgstr "Cerca etiquetes de Serveis"
+
+#: ../functions/post-types/services.php:71
+msgid "Popular Services Tags"
+msgstr "Etiquetes populars de Serveis"
+
+#: ../functions/post-types/services.php:72
+msgid "All Services Tags"
+msgstr "Totes les etiquetes de Serveis"
+
+#: ../functions/post-types/services.php:73
+msgid "Parent Services Tag"
+msgstr "Etiqueta de Serveis pare"
+
+#: ../functions/post-types/services.php:74
+msgid "Parent Services Tag:"
+msgstr "Etiqueta de Serveis pare:"
+
+#: ../functions/post-types/services.php:75
+msgid "Edit Services Tag"
+msgstr "Edita etiqueta de Serveis"
+
+#: ../functions/post-types/services.php:76
+msgid "Update Services Tag"
+msgstr "Actualitza etiqueta de Serveis"
+
+#: ../functions/post-types/services.php:77
+msgid "Add New Services Tag"
+msgstr "Afegeix nova etiqueta de Serveis"
+
+#: ../functions/post-types/services.php:78
+msgid "New Services Tag Name"
+msgstr "Nom de la nova etiqueta de Serveis"
+
+#: ../functions/post-types/services.php:79
+msgid "Separate services tags with commas"
+msgstr "Separeu les etiquetes de Serveis amb comes"
+
+#: ../functions/post-types/services.php:80
+msgid "Add or remove services tags"
+msgstr "Afegiu o elimineu etiquetes de Serveis"
+
+#: ../functions/post-types/services.php:81
+msgid "Choose from the most used services tags"
+msgstr "Escolliu entre les etiquetes de Serveis més utilitzades"
+
+#: ../functions/post-types/services.php:106
+#: ../functions/post-types/services.php:120
+msgid "Services Categories"
+msgstr "Categories de Serveis"
+
+#: ../functions/post-types/services.php:107
+msgid "Services Category"
+msgstr "Categoria de Serveis"
+
+#: ../functions/post-types/services.php:108
+msgid "Search Services Categories"
+msgstr "Cerca categories de Serveis"
+
+#: ../functions/post-types/services.php:109
+msgid "Popular Services Categories"
+msgstr "Categories populars de Serveis"
+
+#: ../functions/post-types/services.php:110
+msgid "All Services Categories"
+msgstr "Totes les categories de Serveis"
+
+#: ../functions/post-types/services.php:111
+msgid "Parent Services Category"
+msgstr "Categoria de Serveis pare"
+
+#: ../functions/post-types/services.php:112
+msgid "Parent Services Category:"
+msgstr "Categoria de Serveis pare:"
+
+#: ../functions/post-types/services.php:113
+msgid "Edit Services Category"
+msgstr "Edita categoria de Serveis"
+
+#: ../functions/post-types/services.php:114
+msgid "Update Services Category"
+msgstr "Actualitza categoria de Serveis"
+
+#: ../functions/post-types/services.php:115
+msgid "Add New Services Category"
+msgstr "Afegeix nova categoria de Serveis"
+
+#: ../functions/post-types/services.php:116
+msgid "New Services Category Name"
+msgstr "Nom de la nova categoria de Serveis"
+
+#: ../functions/post-types/services.php:117
+msgid "Separate services categories with commas"
+msgstr "Separeu les categories de Serveis amb comes"
+
+#: ../functions/post-types/services.php:118
+msgid "Add or remove services categories"
+msgstr "Afegiu o elimineu categories de Serveis"
+
+#: ../functions/post-types/services.php:119
+msgid "Choose from the most used services categories"
+msgstr "Escolliu entre les categories de Serveis més utilitzades"
+
+#: ../functions/post-types/services.php:231
+msgid "Services Item Pending"
+msgstr "Ítem de Serveis pendent"
+
+#: ../functions/post-types/slides.php:29
+msgid "Slides Item"
+msgstr "Ítem de diapositives"
+
+#: ../functions/post-types/slides.php:31 ../functions/post-types/slides.php:33
+msgid "Add New Slides Item"
+msgstr "Afegeix nou ítem de Diapositives"
+
+#: ../functions/post-types/slides.php:32
+msgid "Edit Slides Item"
+msgstr "Edita ítem de Diapositives"
+
+#: ../functions/post-types/slides.php:35
+msgid "Search Slides"
+msgstr "Cerca Diapositives"
+
+#: ../functions/post-types/slides.php:36
+msgid "No slides items found"
+msgstr "No s'han trobat ítems de Diapositives"
+
+#: ../functions/post-types/slides.php:37
+msgid "No slides items found in trash"
+msgstr "No s'han trobat ítems de Diapositives a la Paperera"
+
+#: ../functions/post-types/slides.php:63
+msgid "Title"
+msgstr "Títol"
+
+#: ../functions/widgets/widget-areas.php:10
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#: ../functions/widgets/widget-areas.php:12
+msgid "Widgets in this area are used in the default sidebar."
+msgstr "Els ginys d'aquesta àrea s'utilitzen a la barra lateral per defecte."
+
+#: ../functions/widgets/widget-areas.php:23
+msgid "Footer 1"
+msgstr "Peu de pàgina 1"
+
+#: ../functions/widgets/widget-areas.php:25
+msgid "Widgets in this area are used in the first footer column"
+msgstr ""
+"Els Ginys d'aquesta àrea s'utilitzen a la primera columna del peu de pàgina"
+
+#: ../functions/widgets/widget-areas.php:33
+msgid "Footer 2"
+msgstr "Peu de pàgina 2"
+
+#: ../functions/widgets/widget-areas.php:35
+msgid "Widgets in this area are used in the second footer column"
+msgstr ""
+"Els Ginys d'aquesta àrea s'utilitzen a la segona columna del peu de pàgina"
+
+#: ../functions/widgets/widget-areas.php:43
+msgid "Footer 3"
+msgstr "Peu de pàgina 3"
+
+#: ../functions/widgets/widget-areas.php:45
+msgid "Widgets in this area are used in the third footer column"
+msgstr ""
+"Els Ginys d'aquesta àrea s'utilitzen a la tercera columna del peu de pàgina"
+
+#: ../functions/widgets/widget-areas.php:53
+msgid "Footer 4"
+msgstr "Peu de pàgina 4"
+
+#: ../functions/widgets/widget-areas.php:55
+msgid "Widgets in this area are used in the fourth footer column"
+msgstr ""
+"Els Ginys d'aquesta àrea s'utilitzen a la quarta columna del peu de pàgina"
+
+#: ../functions/widgets/widget-portfolio-posts-thumbs.php:12
+msgid "Portfolio Posts w/ Thumbs"
+msgstr "Entrades de Portafolis amb Miniatures"
+
+#: ../functions/widgets/widget-portfolio-posts-thumbs.php:12
+#: ../functions/widgets/widget-posts-thumbs.php:12
+msgid "Display a list of recent standard posts with featured thumbnails."
+msgstr ""
+"Mostra una llista d'entrades normals recents amb miniatures destacades."
+
+#: ../functions/widgets/widget-portfolio-posts-thumbs.php:79
+#: ../functions/widgets/widget-posts-thumbs.php:67
+msgid "Featured Posts"
+msgstr "Entrades destacades"
+
+#: ../functions/widgets/widget-portfolio-posts-thumbs.php:89
+#: ../functions/widgets/widget-posts-thumbs.php:77
+msgid "Title:"
+msgstr "Títol:"
+
+#: ../functions/widgets/widget-portfolio-posts-thumbs.php:94
+#: ../functions/widgets/widget-posts-thumbs.php:82
+msgid "Select a Category:"
+msgstr "Escolliu una categoria:"
+
+#: ../functions/widgets/widget-portfolio-posts-thumbs.php:108
+#: ../functions/widgets/widget-posts-thumbs.php:96
+msgid "Number to Show:"
+msgstr "Número a mostrar:"
+
+#: ../functions/widgets/widget-portfolio-posts-thumbs.php:112
+#: ../functions/widgets/widget-posts-thumbs.php:100
+msgid "Offset (the number of posts to skip):"
+msgstr "Desplaçament (nombre d'entrades a obviar):"
+
+#: ../functions/widgets/widget-posts-thumbs.php:12
+msgid "Standard Posts w/ Thumbs"
+msgstr "Entrades normals amb Miniatures."
+
+#~ msgid "One Comment"
+#~ msgstr "Un comentari"

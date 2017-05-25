@@ -1,0 +1,35 @@
+<wpml-config>
+	<!-- Custom Fields -->
+	<custom-fields>
+		<!-- Pages & Posts -->
+		<custom-field action="copy">wpex_services_icon</custom-field>
+		<custom-field action="copy">wpex_slides_url</custom-field>
+		<custom-field action="copy">wpex_slides_url_target</custom-field>
+		<custom-field action="copy">wpex_slides_video</custom-field>
+	</custom-fields>
+	<!-- Custom Post Types -->
+	<custom-types>
+		<custom-type translate="1">portfolio</custom-type>
+		<custom-type translate="1">services</custom-type>
+		<custom-type translate="1">slides</custom-type>
+	</custom-types>
+	<!-- Custom Taxonomies -->
+	<taxonomies>
+		<taxonomy translate="1">portfolio_tag</taxonomy>
+		<taxonomy translate="1">portfolio_category</taxonomy>
+		<taxonomy translate="1">services_tag</taxonomy>
+		<taxonomy translate="1">services_category</taxonomy>
+	</taxonomies>
+	<!-- Admin Texts -->
+	<admin-texts>
+		<key name="options_wpex_themes">
+			<key name="masterhead_right" />
+			<key name="custom_copyright" />
+			<key name="slides_alt" />
+			<key name="home_tagline" />
+			<key name="home_portfolio_title" />
+			<key name="home_blog_title" />
+			<key name="home_services_title" />
+		</key>
+	</admin-texts>
+</wpml-config>
