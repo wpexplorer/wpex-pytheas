@@ -1,0 +1,1541 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pytheas WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-23 16:03-0800\n"
+"PO-Revision-Date: 2019-11-21 13:07+0100\n"
+"Language-Team: WPExplorer.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_nx\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.2.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "Not found"
+msgstr "No encontrado"
+
+#: ../404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Vaya, esto es embarazoso, &iquest;no?"
+
+#: ../404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que aquí no hay nada. ¿Y si pruebas a buscar?"
+
+#: ../archive-portfolio.php:23 ../archive-services.php:26
+#: ../taxonomy-portfolio_category.php:26 ../taxonomy-services_category.php:24
+msgid "Browse"
+msgstr "Navegar"
+
+#: ../archive-portfolio.php:25 ../archive-services.php:28
+#: ../taxonomy-portfolio_category.php:28 ../taxonomy-services_category.php:26
+#: ../functions/widgets/widget-portfolio-posts-thumbs.php:88
+#: ../functions/widgets/widget-posts-thumbs.php:77
+msgid "All"
+msgstr "Todo"
+
+#: ../author-bio.php:13
+msgid "Post by"
+msgstr "Por"
+
+#: ../comments.php:31 ../content.php:52 ../single-portfolio.php:41
+#: ../single.php:31
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: ../comments.php:33
+#, php-format
+msgid "%s Comments"
+msgstr "%s comentarios"
+
+#: ../comments.php:49
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: ../comments.php:50
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios antiguos"
+
+#: ../comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios recientes &arr;"
+
+#: ../comments.php:56
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: ../comments.php:62
+msgid "Leave a Reply"
+msgstr "Deja una respuesta"
+
+#: ../content-none.php:18
+msgid "Nothing Found"
+msgstr "No se encontró nada"
+
+#: ../content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</"
+"a>."
+
+#: ../content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero no se encontró nada para tus criterios de búsqueda. Por "
+"favor, inténtalo de nuevo con una clave distinta..."
+
+#: ../content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no hemos podido encontrar lo que buscabas. Quizá una búsqueda "
+"vaya mejor."
+
+#: ../content-portfolio-related.php:44
+msgid "Related Projects"
+msgstr "Proyectos relacionados"
+
+#: ../content-related-posts.php:39
+msgid "Related Articles"
+msgstr "Artículos relacionados"
+
+#: ../content-search.php:34 ../content.php:62
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguir leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../content.php:52 ../single-portfolio.php:41 ../single.php:31
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: ../content.php:52 ../single-portfolio.php:41 ../single.php:31
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: ../content.php:52 ../single-portfolio.php:41 ../single.php:31
+msgid "Comments closed"
+msgstr "Comentarios cerrados"
+
+#: ../header.php:72 ../searchform.php:13
+msgid "Search"
+msgstr "Búsqueda"
+
+#: ../page.php:41 ../single-portfolio.php:60 ../single-services.php:53
+#: ../templates/template-fullwidth.php:35
+msgid "Edit Page"
+msgstr "Editar página"
+
+#: ../search.php:15
+msgid "Search Results for"
+msgstr "Buscar en los resultados"
+
+#: ../functions/cmb2-init.php:12
+msgid "Slide Settings"
+msgstr "Ajustes de las slides"
+
+#: ../functions/cmb2-init.php:19
+msgid "oEmbed Video URL"
+msgstr "oEmbed URL del vídeo"
+
+#: ../functions/cmb2-init.php:26
+msgid "Link URL"
+msgstr "URL del enlace"
+
+#: ../functions/cmb2-init.php:33
+msgid "Link Target"
+msgstr "Destino del enlace"
+
+#: ../functions/cmb2-init.php:46
+msgid "Services Settings"
+msgstr "Ajustes de servicios"
+
+#: ../functions/cmb2-init.php:53
+msgid "Icon"
+msgstr "Icono"
+
+#: ../functions/comments-callback.php:28
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../functions/comments-callback.php:28 ../functions/comments-callback.php:53
+msgid "Edit"
+msgstr "Editar"
+
+#: ../functions/comments-callback.php:59
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está en espera de ser moderado."
+
+#: ../functions/comments-callback.php:67
+msgid "reply to comment"
+msgstr "responder a comentario"
+
+#: ../functions/core.php:69
+msgid "Select"
+msgstr "Seleccionar"
+
+#: ../functions/dash-thumbs.php:13 ../functions/post-types/slides.php:64
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: ../functions/scripts.php:55
+msgid "Menu"
+msgstr "Menú"
+
+#: ../functions/styling.php:20
+msgid "Styling"
+msgstr "Estilo"
+
+#: ../functions/styling.php:84
+msgid "Header Top Padding"
+msgstr "Padding del encabezado superior"
+
+#: ../functions/styling.php:93
+msgid "Header Bottom Padding"
+msgstr "Padding del encabezado inferior"
+
+#: ../functions/styling.php:102
+msgid "Logo Text Color"
+msgstr "Color de texto del logo"
+
+#: ../functions/styling.php:109
+msgid "Site Subtitle Color"
+msgstr "Color del subtítulo del sitio"
+
+#: ../functions/styling.php:116
+msgid "Menu Background"
+msgstr "Fondo del menú"
+
+#: ../functions/styling.php:123
+msgid "Menu Link Color"
+msgstr "Color de enlace de menú"
+
+#: ../functions/styling.php:130
+msgid "Menu Link Hover Color"
+msgstr "Color al pasar por encima en links de menú"
+
+#: ../functions/styling.php:137
+msgid "Active Menu Link Color"
+msgstr "Color de enlace en elemento activo de menú"
+
+#: ../functions/styling.php:144
+msgid "Active Menu Link Background"
+msgstr "Fondo del enlace en elemento activo de menú"
+
+#: ../functions/styling.php:151
+msgid "Sub-Menu Background"
+msgstr "Fondo de sub-menú"
+
+#: ../functions/styling.php:158
+msgid "Sub-Menu Link Bottom Border"
+msgstr "Borde inferior del enlace del sub-menú"
+
+#: ../functions/styling.php:165
+msgid "Sub-Menu Link Color"
+msgstr "Color de enlace de sub-menú"
+
+#: ../functions/styling.php:172
+msgid "Sub-Menu Link Hover Color"
+msgstr "Color al pasar por encima del enlace del sub-menú"
+
+#: ../functions/styling.php:179
+msgid "Sub-Menu Link Hover Background"
+msgstr "Fondo al pasar por encima del enlace del sub-menú"
+
+#: ../functions/styling.php:186
+msgid "Footer Widgets Background"
+msgstr "Fondo de los widgets del pie"
+
+#: ../functions/styling.php:193
+msgid "Footer Widgets Color"
+msgstr "Color de widgets del pie"
+
+#: ../functions/styling.php:200
+msgid "Footer Widgets Heading"
+msgstr "Encabezado de widgets del pie"
+
+#: ../functions/styling.php:207
+msgid "Footer Widgets Links"
+msgstr "Enlaces de widgets del pie"
+
+#: ../functions/styling.php:214
+msgid "Footer Widgets Links Hover"
+msgstr "Al pasar por encima de enlace de widgets del pie"
+
+#: ../functions/styling.php:221
+msgid "Footer Widgets Borders"
+msgstr "Bordes de widgets del pie"
+
+#: ../functions/styling.php:228
+msgid "Footer Bottom Backgorund"
+msgstr "Fondo del pie inferior"
+
+#: ../functions/styling.php:235
+msgid "Footer Bottom Color"
+msgstr "Color del pie inferior"
+
+#: ../functions/styling.php:242
+msgid "Footer Bottom Link Color"
+msgstr "Color de enlace del pie inferior"
+
+#: ../functions/styling.php:249
+msgid "Footer Bottom Link Color Hover"
+msgstr "Color al pasar por encima de enlaces del pie inferior"
+
+#: ../functions/styling.php:256
+msgid "Heading Title Hover Color"
+msgstr "Color al pasar por encima del título del encabezado"
+
+#: ../functions/styling.php:263
+msgid "Link Color"
+msgstr "Color de enlace"
+
+#: ../functions/styling.php:270
+msgid "Link Hover Color"
+msgstr "Color al pasar por encima de enlace"
+
+#: ../functions/styling.php:277
+msgid "Sidebar Link Color"
+msgstr "Color de enlace en barra lateral"
+
+#: ../functions/styling.php:284
+msgid "Sidebar Link Hover Color"
+msgstr "Color al pasar por encima de enlace en barra lateral"
+
+#: ../functions/styling.php:291
+msgid "Services Icons"
+msgstr "Iconos de servicios"
+
+#: ../functions/theme-customizer.php:51
+#: ../functions/CMB2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr "Por defecto"
+
+#: ../functions/theme-customizer.php:52
+msgid "Light Rounded"
+msgstr "Redondeado claro"
+
+#: ../functions/theme-customizer.php:53
+msgid "Dark Rounded"
+msgstr "Redondeado oscuro"
+
+#: ../functions/theme-customizer.php:54
+msgid "Light Square"
+msgstr "Cuadrado Claro"
+
+#: ../functions/theme-customizer.php:55
+msgid "Dark Square"
+msgstr "Cuadrado oscuro"
+
+#: ../functions/theme-customizer.php:56
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../functions/theme-customizer.php:64
+msgid "General"
+msgstr "General"
+
+#: ../functions/theme-customizer.php:69
+msgid "Custom Logo"
+msgstr "Logo personalizado"
+
+#: ../functions/theme-customizer.php:70
+msgid "Upload your custom logo."
+msgstr "Sube tu logo personalizado."
+
+#: ../functions/theme-customizer.php:77
+msgid "Exclude Header Image From Homepage?"
+msgstr "¿Excluir imagen de encabezado en la Home?"
+
+#: ../functions/theme-customizer.php:78
+msgid "Check box to exclude the header image from the homepage."
+msgstr ""
+"Marca la casilla para excluir la imagen de encabezado de la página de "
+"inicio."
+
+#: ../functions/theme-customizer.php:86
+msgid "Disable the background image?"
+msgstr "¿Deshabilitar la imagen de fondo?"
+
+#: ../functions/theme-customizer.php:87
+msgid "Check box to disable the main background image."
+msgstr "Marca la casilla para deshabilitar la imagen de fondo principal."
+
+#: ../functions/theme-customizer.php:95
+msgid "Widgetized Footer?"
+msgstr "¿Pie de página con widgets?"
+
+#: ../functions/theme-customizer.php:96
+msgid "Check box to enable the widgetized footer area."
+msgstr ""
+"Marca la casilla para habilitar el soporte de widgets en el pie de página."
+
+#: ../functions/theme-customizer.php:104
+msgid "PrettyPhoto Theme"
+msgstr "Tema PrettyPhoto"
+
+#: ../functions/theme-customizer.php:105
+msgid "Choose your PrettyPhoto theme."
+msgstr "Escoge tu tema PrettyPhoto."
+
+#: ../functions/theme-customizer.php:114
+msgid "Header Right Content"
+msgstr "Contenido en la parte derecha del encabezado"
+
+#: ../functions/theme-customizer.php:115
+msgid ""
+"Enter your custom content for the header top right section above the "
+"searchbox."
+msgstr ""
+"Habilita contenido personalizado en la zona derecha del encabezado, encima "
+"de la búsqueda."
+
+#: ../functions/theme-customizer.php:123
+msgid "Custom Copyright"
+msgstr "Copyright personalizado"
+
+#: ../functions/theme-customizer.php:124
+msgid "Enter your custom copyright infor for the footer."
+msgstr "Introduce tu copyright personalizado para el pie de página."
+
+#: ../functions/theme-customizer.php:126
+msgid "Theme by"
+msgstr "Tema por"
+
+#: ../functions/theme-customizer.php:135
+msgid "Social"
+msgstr "Social"
+
+#: ../functions/theme-customizer.php:140
+msgid "Social?"
+msgstr "¿Social?"
+
+#: ../functions/theme-customizer.php:141
+msgid "Check box to enable the social section in the main menu."
+msgstr ""
+"Marca la casilla para habilitar la sección social en el menú principal."
+
+#: ../functions/theme-customizer.php:151
+msgid "Enter your "
+msgstr "Introduce tu "
+
+#: ../functions/theme-customizer.php:151
+msgid " url"
+msgstr " url"
+
+#: ../functions/theme-customizer.php:151
+msgid "Include http:// at the front of the url."
+msgstr "Prefijar las URLs con http://."
+
+#: ../functions/theme-customizer.php:163
+msgid "Homepage"
+msgstr "Página de inicio"
+
+#: ../functions/theme-customizer.php:168
+msgid "Homepage Tagline"
+msgstr "Frase de la página de inicio"
+
+#: ../functions/theme-customizer.php:171
+msgid "Homepage Tagline Sample"
+msgstr "Muestra de la frase de la página de inicio"
+
+#: ../functions/theme-customizer.php:177
+msgid "Show Services?"
+msgstr "¿Mostrar servicios?"
+
+#: ../functions/theme-customizer.php:185
+msgid "Homepage Services Title"
+msgstr "Título de sección Servicios en la página de inicio"
+
+#: ../functions/theme-customizer.php:187
+msgid "What We Do"
+msgstr "Qué hacemos"
+
+#: ../functions/theme-customizer.php:194
+msgid "How Many Services Posts"
+msgstr "Cuántos elementos de Servicios"
+
+#: ../functions/theme-customizer.php:202
+msgid "Show Recent Work?"
+msgstr "¿Mostrar trabajos recientes?"
+
+#: ../functions/theme-customizer.php:210
+msgid "Recent Work Title"
+msgstr "Título para Trabajos recientes"
+
+#: ../functions/theme-customizer.php:212
+#: ../functions/widgets/widget-portfolio-posts-thumbs.php:73
+msgid "Recent Work"
+msgstr "Trabajos recientes"
+
+#: ../functions/theme-customizer.php:218
+msgid "Home Many Portfolio Posts?"
+msgstr "¿Cuántas entradas de portfolio?"
+
+#: ../functions/theme-customizer.php:220 ../functions/theme-customizer.php:245
+msgid "4"
+msgstr "4"
+
+#: ../functions/theme-customizer.php:226
+msgid "Show Recent Blog Posts?"
+msgstr "¿Mostrar entradas del blog recientes?"
+
+#: ../functions/theme-customizer.php:234
+msgid "Recent Blog Posts Title"
+msgstr "Título de la sección Entradas de blog recientes"
+
+#: ../functions/theme-customizer.php:236
+msgid "Recent News"
+msgstr "Noticias recientes"
+
+#: ../functions/theme-customizer.php:243
+msgid "Home Many Blog Posts?"
+msgstr "¿Cuántas entradas del blog?"
+
+#: ../functions/theme-customizer.php:253
+msgid "Homepage Slider"
+msgstr "Slider de la Home"
+
+#: ../functions/theme-customizer.php:259
+msgid "Auto Slideshow"
+msgstr "Auto slideshow"
+
+#: ../functions/theme-customizer.php:260
+msgid "Check this box to enable automatic slideshow for your slides."
+msgstr "Marca esta casilla para habilitar los slides automáticamente."
+
+#: ../functions/theme-customizer.php:272
+msgid "Randomize"
+msgstr "Aleatorio"
+
+#: ../functions/theme-customizer.php:273
+msgid "Check this box to enable the randomize feature for your slides."
+msgstr "Marca esta casilla para que las diapositivas salgan aleatoriamente."
+
+#: ../functions/theme-customizer.php:285
+msgid "SlideShow Speed"
+msgstr "Velocidad del slideshow"
+
+#: ../functions/theme-customizer.php:286
+msgid "Enter your preferred slideshow speed in milliseconds."
+msgstr "Introduce la velocidad preferida del slideshow, en milisegundos."
+
+#: ../functions/theme-customizer.php:294
+msgid "Animation Speed"
+msgstr "Velocidad de animación"
+
+#: ../functions/theme-customizer.php:295
+msgid "Enter your preferred animation speed in milliseconds."
+msgstr "Introduce tu velocidad de animación preferida, en miliseguindos."
+
+#: ../functions/theme-customizer.php:304
+msgid "Slider Alternative"
+msgstr "Alternativa al slider"
+
+#: ../functions/theme-customizer.php:305
+msgid ""
+"If you prefer to use another slider you can enter the <strong>shortcode</"
+"strong> here."
+msgstr ""
+"Si prefieres usar otro slider, puedes escribir aquí el <strong>shortcode</"
+"strong> aquí."
+
+#: ../functions/theme-customizer.php:314
+#: ../functions/post-types/portfolio.php:36 ../templates/template-home.php:92
+msgid "Portfolio"
+msgstr "Porfolio"
+
+#: ../functions/theme-customizer.php:319
+msgid "Portfolio Posts Per Page"
+msgstr "Entradas de portfolio por página"
+
+#: ../functions/theme-customizer.php:327
+msgid "Portfolio Post Meta"
+msgstr "Metadatos de entrada de portfolio"
+
+#: ../functions/theme-customizer.php:335
+msgid "Portfolio Post Tags"
+msgstr "Etiquetas de entrada de portfolio"
+
+#: ../functions/theme-customizer.php:343
+msgid "Portfolio Related"
+msgstr "Relacionado con la entrada de portfolio"
+
+#: ../functions/theme-customizer.php:351
+msgid "Portfolio Comments"
+msgstr "Comentarios de la entrada de portfolio"
+
+#: ../functions/theme-customizer.php:360
+#: ../functions/post-types/services.php:36 ../templates/template-home.php:50
+msgid "Services"
+msgstr "Servicios"
+
+#: ../functions/theme-customizer.php:365
+msgid "Services Posts Per Page"
+msgstr "Entradas de Servicio por página"
+
+#: ../functions/theme-customizer.php:373
+msgid "Services Comments"
+msgstr "Comentarios de entradas de servicio"
+
+#: ../functions/theme-customizer.php:382
+msgid "Blog"
+msgstr "Blog"
+
+#: ../functions/theme-customizer.php:387
+msgid "Entry Excerpts?"
+msgstr "¿Extractos de las entradas?"
+
+#: ../functions/theme-customizer.php:388
+msgid "Check box to show excerpts rather then full posts on standard entries."
+msgstr ""
+"Marca la casilla para mostrar extractos de la entrada en lugar de la "
+"entrada entera, en entradas sencillas."
+
+#: ../functions/theme-customizer.php:396
+msgid "Featured Images On Single Posts?"
+msgstr "¿Imagen representativa en entradas sencillas?"
+
+#: ../functions/theme-customizer.php:397 ../functions/theme-customizer.php:406
+#: ../functions/theme-customizer.php:415 ../functions/theme-customizer.php:424
+msgid "Check box to enable featured images on single blog posts."
+msgstr ""
+"Marca la casilla para habilitar las imágenes representativas en las "
+"entradas sencillas del blog."
+
+#: ../functions/theme-customizer.php:405
+msgid "Author Bio?"
+msgstr "¿Biografía de autor?"
+
+#: ../functions/theme-customizer.php:414
+msgid "Tags?"
+msgstr "¿Etiquetas?"
+
+#: ../functions/theme-customizer.php:423
+msgid "Related Posts?"
+msgstr "¿Entradas relacionadas?"
+
+#: ../functions/theme-customizer.php:444
+msgid "Theme Settings"
+msgstr "Ajustes del tema"
+
+#: ../functions/theme-setup.php:22
+msgid "Main"
+msgstr "Principal"
+
+#: ../functions/theme-setup.php:23
+msgid "Footer"
+msgstr "Pie de página"
+
+#: ../functions/welcome.php:39 ../functions/welcome.php:40
+msgid "Pytheas Theme"
+msgstr "Thema Pytheas"
+
+#: ../functions/CMB2/example-functions.php:80
+msgid "Test Metabox"
+msgstr "Metabox de pruebas"
+
+#: ../functions/CMB2/example-functions.php:91
+#: ../functions/CMB2/example-functions.php:383
+msgid "Test Text"
+msgstr "Texto de prueba"
+
+#: ../functions/CMB2/example-functions.php:92
+#: ../functions/CMB2/example-functions.php:104
+#: ../functions/CMB2/example-functions.php:112
+#: ../functions/CMB2/example-functions.php:120
+#: ../functions/CMB2/example-functions.php:129
+#: ../functions/CMB2/example-functions.php:137
+#: ../functions/CMB2/example-functions.php:152
+#: ../functions/CMB2/example-functions.php:160
+#: ../functions/CMB2/example-functions.php:168
+#: ../functions/CMB2/example-functions.php:185
+#: ../functions/CMB2/example-functions.php:194
+#: ../functions/CMB2/example-functions.php:207
+#: ../functions/CMB2/example-functions.php:214
+#: ../functions/CMB2/example-functions.php:221
+#: ../functions/CMB2/example-functions.php:235
+#: ../functions/CMB2/example-functions.php:248
+#: ../functions/CMB2/example-functions.php:261
+#: ../functions/CMB2/example-functions.php:273
+#: ../functions/CMB2/example-functions.php:282
+#: ../functions/CMB2/example-functions.php:290
+#: ../functions/CMB2/example-functions.php:299
+#: ../functions/CMB2/example-functions.php:306
+#: ../functions/CMB2/example-functions.php:320
+#: ../functions/CMB2/example-functions.php:384
+#: ../functions/CMB2/example-functions.php:475
+#: ../functions/CMB2/example-functions.php:483
+#: ../functions/CMB2/example-functions.php:490
+#: ../functions/CMB2/example-functions.php:497
+#: ../functions/CMB2/example-functions.php:504
+#: ../functions/CMB2/example-functions.php:511
+#: ../functions/CMB2/example-functions.php:518
+#: ../functions/CMB2/example-functions.php:545
+#: ../functions/CMB2/example-functions.php:553
+#: ../functions/CMB2/example-functions.php:560
+#: ../functions/CMB2/example-functions.php:597
+msgid "field description (optional)"
+msgstr "descripción del campo (opcional)"
+
+#: ../functions/CMB2/example-functions.php:103
+msgid "Test Text Small"
+msgstr "Texto pequeño de prueba"
+
+#: ../functions/CMB2/example-functions.php:111
+msgid "Test Text Medium"
+msgstr "Texto medio de prueba"
+
+#: ../functions/CMB2/example-functions.php:119
+msgid "Website URL"
+msgstr "URL de la Web"
+
+#: ../functions/CMB2/example-functions.php:128
+msgid "Test Text Email"
+msgstr "Email texto pruebas"
+
+#: ../functions/CMB2/example-functions.php:136
+msgid "Test Time"
+msgstr "Hora de prueba"
+
+#: ../functions/CMB2/example-functions.php:144
+#: ../functions/CMB2/example-functions.php:145
+msgid "Time zone"
+msgstr "Huso horario"
+
+#: ../functions/CMB2/example-functions.php:151
+msgid "Test Date Picker"
+msgstr "Selector de fecha de prueba"
+
+#: ../functions/CMB2/example-functions.php:159
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr "Selector de fecha (UNIX Timestamp) de prueba"
+
+#: ../functions/CMB2/example-functions.php:167
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr "Combo Fecha/Hora (UNIX Timestamp) de pueba"
+
+#: ../functions/CMB2/example-functions.php:184
+msgid "Test Money"
+msgstr "Moneda de prueba"
+
+#: ../functions/CMB2/example-functions.php:193
+msgid "Test Color Picker"
+msgstr "Selector de color de prueba"
+
+#: ../functions/CMB2/example-functions.php:206
+msgid "Test Text Area"
+msgstr "Área de Texto de prueba"
+
+#: ../functions/CMB2/example-functions.php:213
+msgid "Test Text Area Small"
+msgstr "Área de Texto pequeña de prueba"
+
+#: ../functions/CMB2/example-functions.php:220
+msgid "Test Text Area for Code"
+msgstr "Área de Texto de código de prueba"
+
+#: ../functions/CMB2/example-functions.php:227
+msgid "Test Title Weeeee"
+msgstr "Título Weeeee de prueba"
+
+#: ../functions/CMB2/example-functions.php:228
+msgid "This is a title description"
+msgstr "Esto es una descripción de título"
+
+#: ../functions/CMB2/example-functions.php:234
+msgid "Test Select"
+msgstr "Selector de prueba"
+
+#: ../functions/CMB2/example-functions.php:240
+#: ../functions/CMB2/example-functions.php:253
+#: ../functions/CMB2/example-functions.php:265
+msgid "Option One"
+msgstr "Opción Uno"
+
+#: ../functions/CMB2/example-functions.php:241
+#: ../functions/CMB2/example-functions.php:254
+#: ../functions/CMB2/example-functions.php:266
+msgid "Option Two"
+msgstr "Opción Dos"
+
+#: ../functions/CMB2/example-functions.php:242
+#: ../functions/CMB2/example-functions.php:255
+#: ../functions/CMB2/example-functions.php:267
+msgid "Option Three"
+msgstr "Opción Tres"
+
+#: ../functions/CMB2/example-functions.php:247
+msgid "Test Radio inline"
+msgstr "Incrustado radio de prueba"
+
+#: ../functions/CMB2/example-functions.php:260
+msgid "Test Radio"
+msgstr "Redio de prueba"
+
+#: ../functions/CMB2/example-functions.php:272
+msgid "Test Taxonomy Radio"
+msgstr "Botón radio de taxonomías de prueba"
+
+#: ../functions/CMB2/example-functions.php:281
+msgid "Test Taxonomy Select"
+msgstr "Selector de taxonomías de prueba"
+
+#: ../functions/CMB2/example-functions.php:289
+msgid "Test Taxonomy Multi Checkbox"
+msgstr "Multi-checkbox de taxonomías de prueba"
+
+#: ../functions/CMB2/example-functions.php:298
+msgid "Test Checkbox"
+msgstr "Checkbox de prueba"
+
+#: ../functions/CMB2/example-functions.php:305
+msgid "Test Multi Checkbox"
+msgstr "Multi-checkbox de prueba"
+
+#: ../functions/CMB2/example-functions.php:311
+msgid "Check One"
+msgstr "Marca Uno"
+
+#: ../functions/CMB2/example-functions.php:312
+msgid "Check Two"
+msgstr "Marca Dos"
+
+#: ../functions/CMB2/example-functions.php:313
+msgid "Check Three"
+msgstr "Marca Tres"
+
+#: ../functions/CMB2/example-functions.php:319
+msgid "Test wysiwyg"
+msgstr "WYSWYG de prueba"
+
+#: ../functions/CMB2/example-functions.php:327
+msgid "Test Image"
+msgstr "Imagen de prueba"
+
+#: ../functions/CMB2/example-functions.php:328
+msgid "Upload an image or enter a URL."
+msgstr "Sube una imagen o introduce una URL."
+
+#: ../functions/CMB2/example-functions.php:334
+msgid "Multiple Files"
+msgstr "Múltiples archivos"
+
+#: ../functions/CMB2/example-functions.php:335
+msgid "Upload or add multiple images/attachments."
+msgstr "Sube o añade múltiples imágenes/adjuntos."
+
+#: ../functions/CMB2/example-functions.php:342
+msgid "oEmbed"
+msgstr "oEmbed"
+
+#: ../functions/CMB2/example-functions.php:343
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+"Introduce una URL de YouTube, Twitter o Instagram. Soportamos los servicios "
+"listados en <a href=\"http://codex.wordpress.org/Embeds\">http://codex."
+"wordpress.org/Embeds</a>."
+
+#: ../functions/CMB2/example-functions.php:374
+msgid "About Page Metabox"
+msgstr "Metabox de la página Acerca de"
+
+#: ../functions/CMB2/example-functions.php:403
+msgid "Repeating Field Group"
+msgstr "Grupo de campos que se repiten"
+
+#: ../functions/CMB2/example-functions.php:411
+msgid "Generates reusable form entries"
+msgstr "Genera entradas de formulario reusables"
+
+#: ../functions/CMB2/example-functions.php:413
+msgid "Entry {#}"
+msgstr "Entrada (#)"
+
+#: ../functions/CMB2/example-functions.php:414
+msgid "Add Another Entry"
+msgstr "Añade otra entrada"
+
+#: ../functions/CMB2/example-functions.php:415
+msgid "Remove Entry"
+msgstr "Eliminar entrada"
+
+#: ../functions/CMB2/example-functions.php:428
+msgid "Entry Title"
+msgstr "Título de la entrada"
+
+#: ../functions/CMB2/example-functions.php:435
+msgid "Description"
+msgstr "Descripción"
+
+#: ../functions/CMB2/example-functions.php:436
+msgid "Write a short description for this entry"
+msgstr "Escribe una corta descripción de esta entrada"
+
+#: ../functions/CMB2/example-functions.php:442
+msgid "Entry Image"
+msgstr "Imagen de la entrada"
+
+#: ../functions/CMB2/example-functions.php:448
+msgid "Image Caption"
+msgstr "Título de la imagen"
+
+#: ../functions/CMB2/example-functions.php:467
+msgid "User Profile Metabox"
+msgstr "Metabox del perfil de usuario"
+
+#: ../functions/CMB2/example-functions.php:474
+#: ../functions/CMB2/example-functions.php:544
+msgid "Extra Info"
+msgstr "Info extra"
+
+#: ../functions/CMB2/example-functions.php:482
+msgid "Avatar"
+msgstr "Avatar"
+
+#: ../functions/CMB2/example-functions.php:489
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: ../functions/CMB2/example-functions.php:496
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: ../functions/CMB2/example-functions.php:503
+msgid "Google+ URL"
+msgstr "URL de Google+"
+
+#: ../functions/CMB2/example-functions.php:510
+msgid "Linkedin URL"
+msgstr "URL de LinkedIn"
+
+#: ../functions/CMB2/example-functions.php:517
+msgid "User Field"
+msgstr "Campo de usuario"
+
+#: ../functions/CMB2/example-functions.php:537
+msgid "Category Metabox"
+msgstr "Metabox de Categoría"
+
+#: ../functions/CMB2/example-functions.php:552
+msgid "Term Image"
+msgstr "Imagen del término"
+
+#: ../functions/CMB2/example-functions.php:559
+msgid "Arbitrary Term Field"
+msgstr "Campo de Término arbitrario"
+
+#: ../functions/CMB2/example-functions.php:581
+msgid "Theme Options Metabox"
+msgstr "Metabox de Opciones del Tema"
+
+#: ../functions/CMB2/example-functions.php:596
+msgid "Site Background Color"
+msgstr "Color de fondo del sitio"
+
+#: ../functions/CMB2/includes/CMB2.php:122
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr "La configuración de Metabox requiere un parámetro ID"
+
+#: ../functions/CMB2/includes/CMB2.php:375
+msgid "Click to toggle"
+msgstr "Clic para activar/desactivar"
+
+#: ../functions/CMB2/includes/CMB2_Ajax.php:65
+msgid "Please Try Again"
+msgstr "Por favor, inténtalo de nuevo"
+
+#: ../functions/CMB2/includes/CMB2_Ajax.php:155
+msgid "Remove Embed"
+msgstr "Quitar incrustado"
+
+#: ../functions/CMB2/includes/CMB2_Ajax.php:159
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "No hay resultados oEmbed para %s. Más información en"
+
+#: ../functions/CMB2/includes/CMB2_Field.php:1030
+msgid "Add Group"
+msgstr "Añadir grupo"
+
+#: ../functions/CMB2/includes/CMB2_Field.php:1031
+msgid "Remove Group"
+msgstr "Quitar grupo"
+
+#: ../functions/CMB2/includes/CMB2_Field.php:1053
+#: ../functions/CMB2/includes/CMB2_Field.php:1057
+#: ../functions/post-types/portfolio.php:170
+#: ../functions/post-types/portfolio.php:180
+#: ../functions/post-types/portfolio.php:190
+#: ../functions/post-types/services.php:162
+#: ../functions/post-types/services.php:172
+#: ../functions/post-types/slides.php:88
+msgid "None"
+msgstr "Ninguno"
+
+#: ../functions/CMB2/includes/CMB2_hookup.php:120
+msgid ""
+"Term Metadata is a WordPress > 4.4 feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+"Metadata de términos es una característica de Wordpress > 4.4. Por favor, "
+"actualiza Wordpress."
+
+#: ../functions/CMB2/includes/CMB2_hookup.php:124
+msgid "Term metaboxes configuration requires a 'taxonomies' parameter"
+msgstr ""
+"La configuración de Metabox de términos requiere un parámetro 'taxonomías'"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:86
+#: ../functions/CMB2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr "Limpiar"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr "Escoge color"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr "Color actual"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Domingo, Lunes, Martes, Miércoles, Jueves, Viernes, Sábado"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "Do, Lu, Ma, Mi, Ju, Vi, Sa"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Dom, Lun, Mar, Mié, Jue, Vie, Sáb"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+"Enero, Febrero, Marzo, Abril, Mayo, Junio, Julio, Agosto, Septiembre, "
+"Octubre, Noviembre, Diciembre"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "Ene, Feb, Mar, Abr, May, Jun, Jul, Ago, Sep, Oct, Nov, Dic"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr "Siguiente"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr "Previo"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr "Hoy"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:118
+#: ../functions/CMB2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr "Hecho"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr "Elige hora"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr "Hora"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr "Hora"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr "Minuto"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr "Segundo"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr "Ahora"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr "Usa este fichero"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr "Usa estos ficheros"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:137
+#: ../functions/CMB2/includes/CMB2_Types.php:1021
+msgid "Remove Image"
+msgstr "Quitar imagen"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:138
+#: ../functions/CMB2/includes/CMB2_Types.php:357
+#: ../functions/CMB2/includes/CMB2_Types.php:1040
+msgid "Remove"
+msgstr "Quitar"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:139
+#: ../functions/CMB2/includes/CMB2_Types.php:1035
+msgid "File:"
+msgstr "Fichero:"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:140
+#: ../functions/CMB2/includes/CMB2_Types.php:1038
+msgid "Download"
+msgstr "Descarga"
+
+#: ../functions/CMB2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr "Seleccion / Deselecciona todo"
+
+#: ../functions/CMB2/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr "Añadir fila"
+
+#: ../functions/CMB2/includes/CMB2_Types.php:768
+#: ../functions/CMB2/includes/CMB2_Types.php:816
+msgid "No terms"
+msgstr "No hay términos"
+
+#: ../functions/CMB2/includes/CMB2_Types.php:884
+msgid "Add or Upload Files"
+msgstr "Añadir o subir ficheros"
+
+#: ../functions/CMB2/includes/CMB2_Types.php:945
+msgid "Add or Upload File"
+msgstr "Añadir o subir fichero"
+
+#: ../functions/CMB2/includes/helper-functions.php:250
+msgid "Save"
+msgstr "Guardar"
+
+#: ../functions/post-types/portfolio.php:37
+#: ../functions/post-types/portfolio.php:238
+msgid "Portfolio Item"
+msgstr "Elemento de portfolio"
+
+#: ../functions/post-types/portfolio.php:38
+#: ../functions/post-types/services.php:38
+#: ../functions/post-types/slides.php:30
+msgid "Add New Item"
+msgstr "Añadir nuevo elemento"
+
+#: ../functions/post-types/portfolio.php:39
+#: ../functions/post-types/portfolio.php:41
+msgid "Add New Portfolio Item"
+msgstr "Añadir nuevo elemento de porfolio"
+
+#: ../functions/post-types/portfolio.php:40
+msgid "Edit Portfolio Item"
+msgstr "Editar elemento de portfolio"
+
+#: ../functions/post-types/portfolio.php:42
+#: ../functions/post-types/services.php:42
+#: ../functions/post-types/slides.php:34
+msgid "View Item"
+msgstr "Ver elemento"
+
+#: ../functions/post-types/portfolio.php:43
+msgid "Search Portfolio"
+msgstr "Buscar en portfolio"
+
+#: ../functions/post-types/portfolio.php:44
+msgid "No portfolio items found"
+msgstr "No hay elementos de portfolio"
+
+#: ../functions/post-types/portfolio.php:45
+msgid "No portfolio items found in trash"
+msgstr "No hay elementos de portfolio en la papelera"
+
+#: ../functions/post-types/portfolio.php:68
+#: ../functions/post-types/portfolio.php:82
+msgid "Portfolio Tags"
+msgstr "Etiquetas de Portfolio"
+
+#: ../functions/post-types/portfolio.php:69
+msgid "Portfolio Tag"
+msgstr "Etiqueta de Portfolio"
+
+#: ../functions/post-types/portfolio.php:70
+msgid "Search Portfolio Tags"
+msgstr "Buscar Etiquetas de portfolio"
+
+#: ../functions/post-types/portfolio.php:71
+msgid "Popular Portfolio Tags"
+msgstr "Etiquetas de portfolio populares"
+
+#: ../functions/post-types/portfolio.php:72
+msgid "All Portfolio Tags"
+msgstr "Todas las etiquetas de portfolio"
+
+#: ../functions/post-types/portfolio.php:73
+msgid "Parent Portfolio Tag"
+msgstr "Etiqueta de portfolio padre"
+
+#: ../functions/post-types/portfolio.php:74
+msgid "Parent Portfolio Tag:"
+msgstr "Etiqueta de portfolio padre:"
+
+#: ../functions/post-types/portfolio.php:75
+msgid "Edit Portfolio Tag"
+msgstr "Editar etiqueta de portfolio"
+
+#: ../functions/post-types/portfolio.php:76
+msgid "Update Portfolio Tag"
+msgstr "Actualizar etiqueta de portfolio"
+
+#: ../functions/post-types/portfolio.php:77
+msgid "Add New Portfolio Tag"
+msgstr "Añadir nueva etiqueta de portfolio"
+
+#: ../functions/post-types/portfolio.php:78
+msgid "New Portfolio Tag Name"
+msgstr "Nuevo nombre de etiqueta de portfolio"
+
+#: ../functions/post-types/portfolio.php:79
+msgid "Separate portfolio tags with commas"
+msgstr "Separa las etiquetas de portfolio con comas"
+
+#: ../functions/post-types/portfolio.php:80
+msgid "Add or remove portfolio tags"
+msgstr "Añadir o quitar eriquetas de portfolio"
+
+#: ../functions/post-types/portfolio.php:81
+msgid "Choose from the most used portfolio tags"
+msgstr "Escoge las etiquetas de portfolio más usadas"
+
+#: ../functions/post-types/portfolio.php:106
+#: ../functions/post-types/portfolio.php:120
+msgid "Portfolio Categories"
+msgstr "Categorías de portfolio"
+
+#: ../functions/post-types/portfolio.php:107
+msgid "Portfolio Category"
+msgstr "Categoría de portfolio"
+
+#: ../functions/post-types/portfolio.php:108
+msgid "Search Portfolio Categories"
+msgstr "Buscar categorías de portfolio"
+
+#: ../functions/post-types/portfolio.php:109
+msgid "Popular Portfolio Categories"
+msgstr "Categorías de portfolio populares"
+
+#: ../functions/post-types/portfolio.php:110
+msgid "All Portfolio Categories"
+msgstr "Todas las categorías de portfolio"
+
+#: ../functions/post-types/portfolio.php:111
+msgid "Parent Portfolio Category"
+msgstr "Categoría de portfolio padre"
+
+#: ../functions/post-types/portfolio.php:112
+msgid "Parent Portfolio Category:"
+msgstr "Categoría de porfolio padre:"
+
+#: ../functions/post-types/portfolio.php:113
+msgid "Edit Portfolio Category"
+msgstr "Editar categoría de portfolio"
+
+#: ../functions/post-types/portfolio.php:114
+msgid "Update Portfolio Category"
+msgstr "Actualizar categoría de portfolio"
+
+#: ../functions/post-types/portfolio.php:115
+msgid "Add New Portfolio Category"
+msgstr "Añadir nueva categoría de portfolio"
+
+#: ../functions/post-types/portfolio.php:116
+msgid "New Portfolio Category Name"
+msgstr "Nuevo nombre de categoría de portfolio"
+
+#: ../functions/post-types/portfolio.php:117
+msgid "Separate portfolio categories with commas"
+msgstr "Separa las categorías de portfolio con comas"
+
+#: ../functions/post-types/portfolio.php:118
+msgid "Add or remove portfolio categories"
+msgstr "Añadir o quitar categorías de portfolio"
+
+#: ../functions/post-types/portfolio.php:119
+msgid "Choose from the most used portfolio categories"
+msgstr "Estoge entr las categorías de porfolio más usadas"
+
+#: ../functions/post-types/portfolio.php:146
+#: ../functions/post-types/services.php:146
+msgid "Category"
+msgstr "Categoría"
+
+#: ../functions/post-types/portfolio.php:147
+#: ../functions/post-types/services.php:147
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ../functions/post-types/portfolio.php:249
+msgid "Portfolio Item Pending"
+msgstr "Elemento de portfolio pendiente"
+
+#: ../functions/post-types/services.php:37
+#: ../functions/post-types/services.php:220
+msgid "Services Item"
+msgstr "Elemento de Servicios"
+
+#: ../functions/post-types/services.php:39
+#: ../functions/post-types/services.php:41
+msgid "Add New Services Item"
+msgstr "Añadir nuevo elemento de servicio"
+
+#: ../functions/post-types/services.php:40
+msgid "Edit Services Item"
+msgstr "Editar elemento de servicio"
+
+#: ../functions/post-types/services.php:43
+msgid "Search Services"
+msgstr "Buscar servicios"
+
+#: ../functions/post-types/services.php:44
+msgid "No services items found"
+msgstr "No se encontraron elementos de servicio"
+
+#: ../functions/post-types/services.php:45
+msgid "No services items found in trash"
+msgstr "No se encontraron elementos de servicio en la papelera"
+
+#: ../functions/post-types/services.php:68
+#: ../functions/post-types/services.php:82
+msgid "Services Tags"
+msgstr "Etiquetas de servicios"
+
+#: ../functions/post-types/services.php:69
+msgid "Services Tag"
+msgstr "Etiqueta de servicio"
+
+#: ../functions/post-types/services.php:70
+msgid "Search Services Tags"
+msgstr "Buscar etiquetas de servicios"
+
+#: ../functions/post-types/services.php:71
+msgid "Popular Services Tags"
+msgstr "Etiquetas de servicios populares"
+
+#: ../functions/post-types/services.php:72
+msgid "All Services Tags"
+msgstr "Todas las etiquetas de servicios"
+
+#: ../functions/post-types/services.php:73
+msgid "Parent Services Tag"
+msgstr "Etiqueta de servicios padre"
+
+#: ../functions/post-types/services.php:74
+msgid "Parent Services Tag:"
+msgstr "Etiqueta de servicios:"
+
+#: ../functions/post-types/services.php:75
+msgid "Edit Services Tag"
+msgstr "Editar etiqueta de servicios"
+
+#: ../functions/post-types/services.php:76
+msgid "Update Services Tag"
+msgstr "Actualizar etiqueta de servicios"
+
+#: ../functions/post-types/services.php:77
+msgid "Add New Services Tag"
+msgstr "Añadir nueva etiqueta de servicios"
+
+#: ../functions/post-types/services.php:78
+msgid "New Services Tag Name"
+msgstr "Nuevo nombre de etiqueta de servicios"
+
+#: ../functions/post-types/services.php:79
+msgid "Separate services tags with commas"
+msgstr "Separa las etiquetas de servicios con comas"
+
+#: ../functions/post-types/services.php:80
+msgid "Add or remove services tags"
+msgstr "Añadir o quitar etiquetas de servicios"
+
+#: ../functions/post-types/services.php:81
+msgid "Choose from the most used services tags"
+msgstr "Escoge entre las etiquetas de servicios más usadas"
+
+#: ../functions/post-types/services.php:106
+#: ../functions/post-types/services.php:120
+msgid "Services Categories"
+msgstr "Categorías de servicios"
+
+#: ../functions/post-types/services.php:107
+msgid "Services Category"
+msgstr "Categoría de servicios"
+
+#: ../functions/post-types/services.php:108
+msgid "Search Services Categories"
+msgstr "Buscar categorías de servicios"
+
+#: ../functions/post-types/services.php:109
+msgid "Popular Services Categories"
+msgstr "Categorías de servicios populares"
+
+#: ../functions/post-types/services.php:110
+msgid "All Services Categories"
+msgstr "Todas las categorías de servicios"
+
+#: ../functions/post-types/services.php:111
+msgid "Parent Services Category"
+msgstr "Categoría de servicios padre"
+
+#: ../functions/post-types/services.php:112
+msgid "Parent Services Category:"
+msgstr "Categoría de servicios padre:"
+
+#: ../functions/post-types/services.php:113
+msgid "Edit Services Category"
+msgstr "Editar categoría de servicios"
+
+#: ../functions/post-types/services.php:114
+msgid "Update Services Category"
+msgstr "Actualizar categoría de servicios"
+
+#: ../functions/post-types/services.php:115
+msgid "Add New Services Category"
+msgstr "Añadir nueva categoría de servicios"
+
+#: ../functions/post-types/services.php:116
+msgid "New Services Category Name"
+msgstr "Nuevo nombre de categoría de servicios"
+
+#: ../functions/post-types/services.php:117
+msgid "Separate services categories with commas"
+msgstr "Separa las categorías de servicios con comas"
+
+#: ../functions/post-types/services.php:118
+msgid "Add or remove services categories"
+msgstr "Añadir o quitar categorías de servicios"
+
+#: ../functions/post-types/services.php:119
+msgid "Choose from the most used services categories"
+msgstr "Escoge entre las categorías de servicios más usadas"
+
+#: ../functions/post-types/services.php:231
+msgid "Services Item Pending"
+msgstr "Elemento de servicios pendiente"
+
+#: ../functions/post-types/slides.php:28
+msgid "Slides"
+msgstr "Slides"
+
+#: ../functions/post-types/slides.php:29
+msgid "Slides Item"
+msgstr "Ítem de slides"
+
+#: ../functions/post-types/slides.php:31 ../functions/post-types/slides.php:33
+msgid "Add New Slides Item"
+msgstr "Añadir nuevo ítem de slides"
+
+#: ../functions/post-types/slides.php:32
+msgid "Edit Slides Item"
+msgstr "Editar ítem de slides"
+
+#: ../functions/post-types/slides.php:35
+msgid "Search Slides"
+msgstr "Buscar slides"
+
+#: ../functions/post-types/slides.php:36
+msgid "No slides items found"
+msgstr "No se encontró ningún ítem de slides"
+
+#: ../functions/post-types/slides.php:37
+msgid "No slides items found in trash"
+msgstr "No se encontró ningún ítem de slides en la papelera"
+
+#: ../functions/post-types/slides.php:63
+msgid "Title"
+msgstr "Título"
+
+#: ../functions/widgets/widget-areas.php:10
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: ../functions/widgets/widget-areas.php:12
+msgid "Widgets in this area are used in the default sidebar."
+msgstr "Los widgets en esta área se usan en la barra lateral por defecto."
+
+#: ../functions/widgets/widget-areas.php:23
+msgid "Footer 1"
+msgstr "Pie 1"
+
+#: ../functions/widgets/widget-areas.php:25
+msgid "Widgets in this area are used in the first footer column"
+msgstr ""
+"Los widgets en esta área se usan en la primera columna del pie de página"
+
+#: ../functions/widgets/widget-areas.php:33
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: ../functions/widgets/widget-areas.php:35
+msgid "Widgets in this area are used in the second footer column"
+msgstr ""
+"Los widgets en esta área se usan en la segunda columna del pie de página"
+
+#: ../functions/widgets/widget-areas.php:43
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: ../functions/widgets/widget-areas.php:45
+msgid "Widgets in this area are used in the third footer column"
+msgstr ""
+"Los widgets en esta área se usan en la tercera columna del pie de página"
+
+#: ../functions/widgets/widget-areas.php:53
+msgid "Footer 4"
+msgstr "Pie de página 4"
+
+#: ../functions/widgets/widget-areas.php:55
+msgid "Widgets in this area are used in the fourth footer column"
+msgstr ""
+"Los widgets en esta área se usan en la cuarta columna del pie de página"
+
+#: ../functions/widgets/widget-portfolio-posts-thumbs.php:80
+#: ../functions/widgets/widget-posts-thumbs.php:69
+msgid "Title:"
+msgstr "Título:"
+
+#: ../functions/widgets/widget-portfolio-posts-thumbs.php:85
+#: ../functions/widgets/widget-posts-thumbs.php:74
+msgid "Select a Category:"
+msgstr "Escoge una categoría:"
+
+#: ../functions/widgets/widget-portfolio-posts-thumbs.php:99
+#: ../functions/widgets/widget-posts-thumbs.php:88
+msgid "Number to Show:"
+msgstr "Número a mostrar:"
+
+#: ../functions/widgets/widget-portfolio-posts-thumbs.php:103
+#: ../functions/widgets/widget-posts-thumbs.php:92
+msgid "Offset (the number of posts to skip):"
+msgstr "Desplazamiento (offset, número de entradas a saltarse):"
+
+#: ../functions/widgets/widget-posts-thumbs.php:63
+msgid "Featured Posts"
+msgstr "Entradas destacadas"
